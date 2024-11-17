@@ -7,7 +7,7 @@ The most interesting topic for me was an [article](https://www.brookings.edu/art
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-Our group is thinking about investigating different biases in social media. Specifically, we are looking to investigate any gender biases that are apparent in different social media platforms (ex. Twitter ads), investigate why these biases are occurring, and mitigate the biases using methods we've learned. 
+Our group is thinking about investigating different biases in social media. Specifically, we are looking to investigate any gender biases that are apparent in different social media `platforms (ex. Twitter ads), investigate why these biases are occurring, and mitigate the biases using methods we've learned. We also plan on using the AIF360 model to assist with the debiasing. Some of the questions we will be thinking about is what bias is being detected, why is it there, what is the real life impact on this kind of bias, and how can we fix it.
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
